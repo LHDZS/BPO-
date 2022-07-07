@@ -16,7 +16,7 @@
     "element-ui": "^2.12.0",
     "less": "^3.10.3",
     "less-loader": "^5.0.0",
-    "moment": "^2.26.0",
+    "moment": "^2.29.4",
     "nga-report-sheet": "0.0.26",
     "vue": "^2.5.2",
     "vue-moment": "^4.1.0",
